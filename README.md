@@ -28,6 +28,7 @@ Then the screen is turned off if the internet is available, it back connects to 
 ------------COMMMANDS----------
 
 Command :   - execute regular shell command on the victim's device 
+
 Upload file :  - should be filled with full path to the file that will be uploaded to logs/ directory on your server
 
 Spec commands:
