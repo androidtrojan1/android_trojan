@@ -1,5 +1,6 @@
 # Android Trojan (Build SDK 22) source code
 Android trojan with abilities of remote control,root commands execution, recording and online sound streaming
+Compatible with all Android from Froyo (API 8) up to Lollipop (API 22)
 
 ----DESCRIPTION----
 
