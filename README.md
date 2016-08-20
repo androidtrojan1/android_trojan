@@ -1,6 +1,7 @@
 # android_trojan
 Android trojan with abilities of remote control,root commands execution, recording and online sound streaming
 
+----DESCRIPTION----
 
 This is a concept of Android remote control and wiretapping tool (trojan with several functions).
 It consists of server and client parts.
@@ -8,7 +9,7 @@ It consists of server and client parts.
 The client part's code should be put to your webhosting (the folder named "html").
 It's recommended to set rw- privileges on all files.
 
----DESCRIPTION----
+----INSTALLATION----
 
 The actual server part is a service apk and starter apk. The service should be installed on victim's device first. After that you need to install starter and choose one of two options.
 either install as root, or non-root install. After that the starter is no longer needed and should be uninstalled. (for example via button in the bottom left of the screen).
