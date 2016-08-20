@@ -1,7 +1,4 @@
 # android_trojan
-Android trojan with abilities of recording calls, live mic streaming , remote root commands execution and other
-
-# android_trojan
 Android trojan with abilities of remote control,root commands execution, recording and online sound streaming
 
 
