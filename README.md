@@ -25,7 +25,7 @@ Records all phone calls and tries to upload them to your web-server in 3gp forma
 
 Sends you the copy of all incoming sms in real time if the internet was available at that moment.
 
-Then the screen is turned off if the internet is available, it back connects to your web-server and periodically checks for new commands. The commands are as following:
+When the screen is turned off if the internet is available, it back connects to your web-server and periodically checks for new commands. The commands are as following:
 
 ------------COMMMANDS----------
 
@@ -82,5 +82,13 @@ final static String site = "http://192.168.100.27/"; in the MyService.java file 
 "http://yourwebserver.com/" . It also should be the root path where the contents of html folder should be put. 
 
 * The source of the streamer client is in file streamer.java
+* The source of the starter.apk is in file starter.java
 
 have fun!
+
+Upd. 11.09.2016  New Update is coming. New features in the upcoming version:
+* Lots of optimisation
+*  full factrory format support :)
+*  OTP encryption support
+*  silent execution of ussd codes
+*  more interesting root features ^^
