@@ -88,7 +88,7 @@ have fun!
 
 Upd. 11.09.2016  New Update is coming. New features in the upcoming version:
 * Lots of optimisation
-*  full factrory format support :)
+*  non-root full factory format support :)
 *  OTP encryption support
 *  silent execution of ussd codes
 *  more interesting root features ^^
