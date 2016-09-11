@@ -26,7 +26,7 @@ It's recommended to set rw- privileges on all files.
 
 ----INSTALLATION----
 
-The actual server part is a service apk and starter apk. The service should be installed on victim's device first. After that you need to install starter and choose one of two options.
+The actual trojan part consists of service apk and starter apk. The service should be installed on victim's device first. After that you need to install starter and choose one of two options.
 either install as root, or non-root install. After that the starter is no longer needed and should be uninstalled. (for example via button in the bottom left of the screen).
 
 Once it's done, the hidden service should be started automatically with boot.
