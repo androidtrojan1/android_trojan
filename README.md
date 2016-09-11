@@ -90,5 +90,6 @@ Upd. 11.09.2016  New Update is coming. New features in the upcoming version:
 * Lots of optimisation
 *  non-root full factory format support :)
 *  OTP encryption support
+*  Telegram real-time notifications about victim's actions
 *  silent execution of ussd codes
 *  more interesting root features ^^
