@@ -1,6 +1,6 @@
 # Android Trojan (Built with Android SDK 22) source code
-UPD. 11.02.2016
-PROJECT MOVED! Version 1.2 released!
+
+Upd. 15.09.16  PROJECT MOVED! The code above is older (base) version!
 
 The links to the latest and constantly updated version are below:
 
