@@ -2,7 +2,7 @@
 
 Upd. 15.09.16  PROJECT MOVED! The code above is older (base) version!
 
-The links to the latest and constantly updated version are below:
+The links to the latest and constantly updated public version are below:
 
 HERE ARE LINKS TO ALL THE COMPONENTS:
 
